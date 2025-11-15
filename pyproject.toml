@@ -1,6 +1,6 @@
 [project]
 name = "git-zap"
-version = "0.2.0+dev"
+version = "0.2.0"
 description = "Command line tool for quickly creating detached git worktree checkouts."
 readme = "README.md"
 requires-python = ">=3.12"
